@@ -3,6 +3,4 @@ Since attending Brainstation back in 2016, I've had bright-eyed bootcamp develop
 
 Hence, this AMA. I hope to provide an accessible document of frequently asked questions re: bootcamp 💻
 
-Share with your peers 😊
-
 If what you're looking for isn't here, please submit a Github issue and I will get back to you (within reason)! 😬
