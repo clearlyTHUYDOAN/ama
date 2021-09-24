@@ -4,3 +4,17 @@ Since attending Brainstation back in 2016, I've had bright-eyed bootcamp develop
 Hence, this AMA. I hope to provide an accessible document of frequently asked questions re: bootcamp 💻
 
 If what you're looking for isn't here, please submit a Github issue and I will get back to you (within reason)! 😬
+
+## Which bootcamp did you go to?
+
+## Which bootcamp do you recommend (for Canadians)?
+
+## Is a bootcamp worth it?
+
+## How much can you realistically make after a bootcamp?
+
+## How long did it take you to get a job after your bootcamp?
+
+## What made you stand out as a bootcamp grad?
+
+## What should I do to increase my chances of getting hired?
