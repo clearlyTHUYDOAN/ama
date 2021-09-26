@@ -49,27 +49,27 @@ Potential and continuous learning is of utmost importance to show.
 ## What should I do to increase my chances of getting hired?
 Three things:
 
-**1)** If you don't want to be unemployed while job hunting for that perfect first role, consider asking your bootcamp if they will have **TA positions** open at the end of the cohort. I became a TA after my cohort and was one until I started my role at my first company. Being a TA is a great opportunity to reinforce what you have learned while **a)** making money and **b)** being financially secure enough that you aren't desperate during the job search. You can also reinforce your learning during the bootcamp itself by helping peers with their assignments.
+**1)** If you don't want to be unemployed while job hunting for that perfect first role, consider asking your bootcamp if they will have **TA positions** open at the end of the cohort. I became a TA after my cohort and was one until I started my role at my first company. Being a TA is a great opportunity to reinforce what you have learned while **a)** making money and **b)** being financially secure enough that you aren't desperate during the job search. You can also reinforce your learning during the bootcamp itself by helping peers with their assignments 🧑‍🤝‍🧑
 
-**2)** Consider working on a flexible, short-term development contract with a small startup by creating a profile and looking for one on [angel.co](https://angel.co/). I found a 1-month contract during my second cohort as TA. While they didn't hire me after due to resource constraints, this experience did prove favourable when my current company recruited me. Again, if you have experience, even if it's very little, it's advantageous when being compared to other new grads with only side projects. To be clear, side projects are not bad. They make sense for someone with very little to no job experience. But if you can get _some_, even better.
+**2)** Consider working on a flexible, **short-term development contract** with a small startup by creating a profile and looking for one on [angel.co](https://angel.co/). I found a 1-month contract during my second cohort as TA. While they didn't hire me after due to resource constraints, this experience did prove favourable when my current company recruited me. Again, if you have experience, even if it's very little, it's advantageous when being compared to other new grads with only side projects. To be clear, side projects are not bad. They make sense for someone with very little to no job experience. But if you can get _some_, even better 🥇
 
-**3)** I've seen great success from even current students **learning in public on Twitter**. They will write a blog post about what they learned that day or even tweets. You can build rapport with the community who will be happy to lift you up along the way, and especially when you announce you are looking for your first role.
+**3)** I've seen great success from even current students **learning in public on Twitter**. They will write a blog post about what they learned that day or even tweets. You can build rapport with the community who will be happy to lift you up along the way, and especially when you announce you are looking for your first role 🌈
 
 ## How do I create content while juggling Bootcamp?
-First and foremost, remember that while you're in bootcamp, the #1 priority is _bootcamp_. 
+First and foremost, remember that while you're in bootcamp, the #1 priority is _bootcamp_ ✨
 
-Find low-commitment ways to create content during bootcamp like tweeting what you learned that day or making a short blog post of what problems you encountered and how you fixed them. If it's a dev.to blog, you could use hashtags like `beginners`, `bootcamp`, `javascript` etc. It can be difficult to create content on things you have to deeply research. You're already learning while in bootcamp so tweeting or writing about it is low-effort. 
+Find low-commitment ways to create content during bootcamp like tweeting what you learned that day or making a short blog post of what problems you encountered and how you fixed them. If it's a dev.to blog, you could use hashtags like `beginners`, `bootcamp`, `javascript` etc. It can be difficult to create content on things you have to deeply research. You're already learning while in bootcamp so tweeting or writing about it is low-effort 😊
 
 ## How do I create content without burning out?
 
 Outside of higher priorities, two things: finding the **right medium** for you and finding the **right cadence**.
 
 **Medium**
-1) Which type of content do you enjoy making best?
-2) If you don't know, experiment.
-3) Which type of content do you think you can make long-term?
+1) Which type of content do you enjoy making best? 💭
+2) If you don't know, experiment 🕹️
+3) Which type of content do you think you can make long-term? 🤔
 
 **Cadence**
-1) If your goal is not to burn out, how often can you sustain making that content?
+1) If your goal is not to burn out, how often can you sustain making that content? 🔥
 
-For me, when I think of "coding more", I tried doing #100DaysOfCode but it didn't work. I have a full-time developer job and, more often than not, when I come home I don't want to code more. Instead, coding for a couple hours on the weekend was more sustainable for me. Find your rhythm. 
+For me, when I think of "coding more", I tried doing #100DaysOfCode but it didn't work. I have a full-time developer job and, more often than not, when I come home I don't want to code more. Instead, coding for a couple hours on the weekend was more sustainable for me. Find your rhythm 💃🏻
