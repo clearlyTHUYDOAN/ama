@@ -72,7 +72,7 @@ LinkedIn shows former employees too 💰
 
 But you should ask so as to not be led astray 😰
 
-**5)** Ask the company if they have a career development plan for employees. That is to say, a clear road map for growth in a role i.e. developer 🗺️
+**5)** Ask the company if they have a career development plan for employees. That is to say, a clear road map for growth in a role i.e. developer 🗺️. Ask, "What's the average time it takes for a junior to make intermediate?"
 
 The most straightforward way to get these answers is to ask the company during the interview process 😬
 
