@@ -57,7 +57,7 @@ Three things:
 ## How do I create content while juggling Bootcamp?
 First and foremost, remember that while you're in bootcamp, the #1 priority is _bootcamp_. 
 
-Find low-commitment ways to create content during bootcamp like tweeting what you learned that day or making a short blog post of what problems you encountered and how you fixed them. If it's a dev.to blog, you could use hashtags like `beginners`, `bootcamp`, `javascript` etc. It can be difficult to create content on things you have to deeply research. You're already learning while in bootcamp so tweeting or writing about it is a low-effort way to share what you're learning. 
+Find low-commitment ways to create content during bootcamp like tweeting what you learned that day or making a short blog post of what problems you encountered and how you fixed them. If it's a dev.to blog, you could use hashtags like `beginners`, `bootcamp`, `javascript` etc. It can be difficult to create content on things you have to deeply research. You're already learning while in bootcamp so tweeting or writing about it is low-effort. 
 
 ## How do I create content without burning out?
 
