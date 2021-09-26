@@ -61,9 +61,13 @@ For me, I wanted a company that wasn't strapped for cash, where I wasn't the onl
 If that's you, I'd recommend the following:
 
 **1)** Probably a company over 50 people 🧑🏿‍🤝‍🧑🏿🧑🏻‍🤝‍🧑🏽🧑🏾‍🤝‍🧑🏾
+
 **2)** If you're concerned about funding, you can attempt to google them along with the word, "crunchbase." If available it will display the amount of money raised and which fundraising round the company is at i.e. seed, series a, b, c, d, e, f etc. This site also shows rough company size. You can get an idea from LinkedIn too by looking at the rough amount of employees that state they work there. However, take this with a grain of salt. LinkedIn shows former employees too 💰
+
 **3)** Determine how the company grows juniors. Do they have an accelerator program? A ramp-up squad? 📈
+
 **4)** Determine the number of people in their engineering department and on the team for the open role. However, regarding mentoring, if they are explicitly hiring for juniors they likely have bandwidth to mentor. But you should ask so as to not be led astray 😰
+
 **5)** Ask the company if they have a career development plan for employees. That is to say, a clear road map for growth in a role i.e. developer 🗺️
 
 The most straightforward way to get these answers is to ask the company during the interview process 😬
