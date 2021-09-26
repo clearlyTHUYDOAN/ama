@@ -7,7 +7,7 @@ If what you're looking for isn't here, please submit a Github issue and I will g
 
 And if this AMA was helpful for you, consider [sending a virtual coffee](https://www.buymeacoffee.com/clearlythuydoan) as a token of appreciation ☕❤️
 
-After reading this, if you still want to chat more, I do offer [30-minute 1-on-1s](https://www.buymeacoffee.com/clearlythuydoan/extras) to dive deeper.
+After reading this, if you still want to chat more, I do offer [30-minute 1-on-1s](https://www.buymeacoffee.com/clearlythuydoan/extras) to dive deeper 🗓️
 
 ## Which bootcamp did you go to?
 I went to [Brainstation](https://brainstation.io/) in Toronto 🇨🇦
