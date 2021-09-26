@@ -49,7 +49,7 @@ Potential and continuous learning is of utmost importance to show.
 ## What should I do to increase my chances of getting hired?
 Three things:
 
-1) If you don't want to be unemployed while job hunting for that perfect first role, consider asking your bootcamp if they will have **TA positions** open at the end of the cohort. I became a TA after my cohort and was one until I started my role at my first company. Being a TA is a great opportunity to reinforce what you have learned while a) making money and b) being financially secure enough that you aren't desperate during the job search. You can also reinforce your learning during the bootcamp itself by helping peers with their assignments when you're done.
+1) If you don't want to be unemployed while job hunting for that perfect first role, consider asking your bootcamp if they will have **TA positions** open at the end of the cohort. I became a TA after my cohort and was one until I started my role at my first company. Being a TA is a great opportunity to reinforce what you have learned while a) making money and b) being financially secure enough that you aren't desperate during the job search. You can also reinforce your learning during the bootcamp itself by helping peers with their assignments.
 
 
 3) I've seen great success from even current students **learning in public on Twitter**. They will write a blog post about what they learned that day or even tweets. You can build rapport with the community who will be happy to lift you up along the way, and especially when you announce you are looking for your first role.
