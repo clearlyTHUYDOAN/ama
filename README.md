@@ -20,3 +20,5 @@ And if this AMA was helpful for you, consider [sending a virtual coffee](https:/
 ## What made you stand out as a bootcamp grad?
 
 ## What should I do to increase my chances of getting hired?
+
+## How do you maintain code-life balance as a junior dev?
