@@ -5,6 +5,8 @@ Hence, this AMA. I hope to provide an accessible document of frequently asked qu
 
 If what you're looking for isn't here, please submit a Github issue and I will get back to you (within reason)! 😬
 
+And if this AMA was helpful for you, consider [sending a virtual coffee](https://www.buymeacoffee.com/clearlythuydoan) as a token of appreciation ☕❤️
+
 ## Which bootcamp did you go to?
 
 ## Which bootcamp do you recommend (for Canadians)?
