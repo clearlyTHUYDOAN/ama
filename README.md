@@ -103,4 +103,6 @@ For me, when I think of "coding more", I tried doing #100DaysOfCode but it didn'
 
 ---
 
-Last thing! These insights are based on my experience plus what I've observed. **Please remember, your mileage may vary.**  🥰
+Last thing! These insights are based on my experience plus what I've observed. 
+
+**Please remember, your mileage may vary.**  🥰
