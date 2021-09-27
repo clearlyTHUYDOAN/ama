@@ -9,6 +9,8 @@ And if this AMA was helpful for you, consider [sending a virtual coffee](https:/
 
 If you still want to chat more after reading this, I do offer [30-minute 1-on-1s](https://www.buymeacoffee.com/clearlythuydoan/extras) to dive deeper 🗓️
 
+Last thing! **Please remember, your mileage may vary.** These are the insights based on my experience plus what I've observed 🥰
+
 ## Which bootcamp did you go to?
 I went to [Brainstation](https://brainstation.io/) in Toronto 🇨🇦
 
