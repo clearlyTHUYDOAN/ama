@@ -35,7 +35,7 @@ However, having the budget, understanding that you aren't guaranteed a job after
 I did the Fall 2016 cohort for Brainstation's full-time web development bootcamp (September to December) and I got my first permanent, full-time job offer on May 31st, 2017. I started that job in mid-June of 2017 💻
 
 ## What made you stand out as a bootcamp grad?
-Based on what I heard from recruiters shortly after I joined my first company, they said that 💻 my LinkedIn profile stood out for them and 💻 the fact that I did have some development experience via a 1-month contract. 
+Based on what I heard from recruiters shortly after I joined my first company, they said that my LinkedIn profile stood out for them and 💻 the fact that I did have some development experience via a 1-month contract. 
 
 Experience is not _necessary_ for junior developers - especially straight out of school or bootcamp - but it is _advantageous_ to have when you are being compared to other new-grads 👯
 
