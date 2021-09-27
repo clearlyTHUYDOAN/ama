@@ -9,8 +9,6 @@ And if this AMA was helpful for you, consider [sending a virtual coffee](https:/
 
 If you still want to chat more after reading this, I do offer [30-minute 1-on-1s](https://www.buymeacoffee.com/clearlythuydoan/extras) to dive deeper 🗓️
 
-Last thing! **Please remember, your mileage may vary.** These are the insights based on my experience plus what I've observed 🥰
-
 ## Which bootcamp did you go to?
 I went to [Brainstation](https://brainstation.io/) in Toronto 🇨🇦
 
@@ -102,3 +100,7 @@ Outside of higher priorities, two things: finding the **right medium** for you a
 1) If your goal is not to burn out, how often can you sustain making that content? 🔥
 
 For me, when I think of "coding more", I tried doing #100DaysOfCode but it didn't work. I have a full-time developer job and, more often than not, when I come home I don't want to code more. Instead, coding for a couple hours on the weekend was more sustainable for me. Find your rhythm 💃🏻
+
+---
+
+Last thing! These insights are based on my experience plus what I've observed. **Please remember, your mileage may vary.**  🥰
